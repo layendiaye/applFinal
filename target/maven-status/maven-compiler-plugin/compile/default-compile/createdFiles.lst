@@ -1,0 +1,7 @@
+com\m2i\appliTpFinal\entity\Spectacle.class
+com\m2i\appliTpFinal\AppliTpFinal.class
+com\m2i\appliTpFinal\entity\Category.class
+com\m2i\appliTpFinal\entity\Session.class
+com\m2i\appliTpFinal\dao\DaoSpectacle.class
+com\m2i\appliTpFinal\service\ServiceSpectacleImpl.class
+com\m2i\appliTpFinal\service\ServiceSpectacle.class
